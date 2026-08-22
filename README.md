@@ -49,6 +49,7 @@ python .\test\test_harness.py
 To test browser playback without CORS or SharedArrayBuffer cross-origin isolation blocks:
 
 ```powershell
+python .\tools\testlibs.py
 python .\tools\serve.py
 ```
 
